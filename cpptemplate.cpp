@@ -13,10 +13,10 @@ using namespace chrono;
 #define ff first
 #define ss second
 #define all(x) x.begin(), x.end() 
-#define tr(it,v) for(auto it=a.begin(),it!=a.end();it++)
+#define tr(it,x) for(auto it=x.begin(),it!=x.end();it++)
 #define fo(i,n) for(int i=0;i<n;i++)
 #define rfo(i,n) for(int i=n-1;i>=0;i--)
-#define sorta(v) sort(all(v))
+#define sorta(x) sort(all(x))
 #define mp make_pair
 #define nl "\n"
 
